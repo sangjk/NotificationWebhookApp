@@ -1,4 +1,4 @@
-# NotificationWebhookApp
+# Notification2Webhook
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Introduction
 
-**NotificationWebhookApp** is an Android application designed to forward notifications from selected apps to a specified webhook URL. This app allows users to monitor notifications from multiple apps in one place, making it easier to manage and respond to important notifications.
+**Notification2Webhook** is an Android application designed to forward notifications from selected apps to a specified webhook URL. This app allows users to monitor notifications from multiple apps in one place, making it easier to manage and respond to important notifications.
 
 ## Features
 
@@ -33,7 +33,7 @@
 ### Steps
 
 1. **Download the APK**:
-   - Download the `NotificationWebhookApp.apk` file from the [releases page](https://github.com/yourusername/NotificationWebhookApp/releases).
+   - Download the `Notification2Webhook.apk` file from the [releases page](https://github.com/yourusername/NotificationWebhookApp/releases).
 
 2. **Install the APK**:
    - Transfer the downloaded APK file to your Android device.
@@ -50,7 +50,7 @@
 ### Setting Up the Webhook URL
 
 1. **Open the App**:
-   - Launch the `NotificationWebhookApp` from your app drawer.
+   - Launch `Notification2Webhook` from your app drawer.
 
 2. **Configure the Webhook URL**:
    - In the main screen, tap on the "Settings" button.
@@ -60,7 +60,7 @@
 ### Selecting Apps to Monitor
 
 1. **Open the App**:
-   - Launch the `NotificationWebhookApp` from your app drawer.
+   - Launch `Notification2Webhook` from your app drawer.
 
 2. **Select Apps**:
    - In the main screen, you will see a list of installed apps.
@@ -69,7 +69,7 @@
 ### Enabling Notification Forwarding
 
 1. **Open the App**:
-   - Launch the `NotificationWebhookApp` from your app drawer.
+   - Launch `Notification2Webhook` from your app drawer.
 
 2. **Enable Notification Forwarding**:
    - Toggle the "Forward Notifications" switch to enable or disable notification forwarding.
