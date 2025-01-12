@@ -12,7 +12,7 @@
 
 ## Introduction
 
-**Notification2Webhook** is an Android application designed to forward notifications from selected apps to a specified webhook URL. This app allows users to monitor notifications from multiple apps in one place, making it easier to manage and respond to important notifications.
+**Notification2Webhook** is an Android application designed to forward notifications from selected apps to a specified webhook URL. 
 
 ## Features
 
