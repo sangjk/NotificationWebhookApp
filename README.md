@@ -1,4 +1,4 @@
-# NotificationWebhookApp
+# Notification Webhook App
 Simple android app that automatically forwards any apps notifications as raw json messages to a set webhook address. 
 
 1. On first startup you will need to authorize the app to read notifications.
