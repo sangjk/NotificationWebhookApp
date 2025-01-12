@@ -12,7 +12,7 @@
 
 ## Introduction
 
-**Notification2Webhook** is an Android application designed to forward notifications from selected apps to a specified webhook URL. 
+**Notification2Webhook** is an Android application designed to forward notifications from selected apps to a specified webhook URL. This is esspecially useful for Tradingview Indicators to send buy and sell signals to a trading bot without having to pay for a Tradingview account. 
 
 ## Features
 
