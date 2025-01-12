@@ -53,7 +53,7 @@
    - Launch `Notification2Webhook` from your app drawer.
 
 2. **Configure the Webhook URL**:
-   - In the main screen, tap on the "Settings" button.
+   - In the main screen, tap on the "Set Webhook URL" button.
    - Enter the webhook URL where you want to forward the notifications.
    - Tap "Save" to save the webhook URL.
 
@@ -64,7 +64,11 @@
 
 2. **Select Apps**:
    - In the main screen, you will see a list of installed apps.
-   - Toggle the switch next to each app you want to monitor for notifications.
+   - Check the box next to each app you want to monitor for notifications.
+
+3. **Save App List**:
+   - Tap the Save Apps button to save the app list.
+  
 
 ### Enabling Notification Forwarding
 
@@ -86,13 +90,7 @@
    - **Cause**: The app might not have the necessary permissions to read notifications, or the webhook URL might be incorrect.
    - **Solution**: Verify that the app has the necessary permissions. Check the webhook URL configuration and ensure it is correct.
 
-3. **Popup Does Not Appear**:
-   - **Cause**: The popup might not appear if the permissions are already granted or if there is an issue with the popup window token.
-   - **Solution**: Ensure that the app has the necessary permissions. Check the logcat output for any error messages related to the popup window token.
 
-4. **Notification Listener Is Not Enabled**:
-   - **Cause**: The notification listener service might not be enabled.
-   - **Solution**: Go to the app settings and ensure that the notification listener service is enabled.
 
 ## Contributing
 
