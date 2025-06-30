@@ -33,7 +33,7 @@
 ### Steps
 
 1. **Download the APK**:
-   - Download the `Notification2Webhook.apk` file from the [releases page](https://github.com/yourusername/NotificationWebhookApp/releases).
+   - Download the `Notification2Webhook.apk` file from the [releases page](https://github.com/BigShoots/NotificationWebhookApp/releases).
 
 2. **Install the APK**:
    - Transfer the downloaded APK file to your Android device.
@@ -94,7 +94,7 @@
 
 ## Contributing
 
-We welcome contributions from the community! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on our [GitHub repository](https://github.com/yourusername/NotificationWebhookApp).
+We welcome contributions from the community! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on our [GitHub repository](https://github.com/BigShoots/NotificationWebhookApp).
 
 ## License
 
