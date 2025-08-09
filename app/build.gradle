@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'org.jetbrains.kotlin.plugin.compose' version '1.9.10'  // 必须加这个插件
 }
 
 android {
@@ -9,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.notificationwebhookapp"
-        minSdk 24                   // 改成 24 兼容 Android 7.0+
+        minSdk 24                   // 兼容 Android 7.0+
         targetSdk 35
         versionCode 1
         versionName "1.0"
@@ -42,6 +43,10 @@ android {
 
     buildFeatures {
         compose true
+    }
+
+    composeOptions {
+        kotlinCompilerExtensionVersion '1.5.3'  // 这个版本和 Compose BOM 配合使用
     }
 }
 
